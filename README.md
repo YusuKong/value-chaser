@@ -1,2 +1,2 @@
 # value-chaser
-Learn 7 Practice Value Invest
+Learn & Practice Value Invest
