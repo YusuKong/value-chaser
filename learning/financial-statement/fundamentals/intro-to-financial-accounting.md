@@ -24,6 +24,9 @@ based on UPenn online course @ Coursera
     - Statement of Stockholder's Equity
 
 ## Balance Sheet
+- Balance Sheet Equation
+    $$Assets = Liabilities + Equity$$
+    $$Resources = Claims by Outsiders + Owners$$
 
 ## Income Statement
 
