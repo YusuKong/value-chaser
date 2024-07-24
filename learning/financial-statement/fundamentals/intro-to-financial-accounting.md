@@ -25,9 +25,28 @@ based on UPenn online course @ Coursera
 
 ## Balance Sheet
 - Balance Sheet Equation
-    $$Assets = Liabilities + Equity$$
-    $$Resources = Claims by Outsiders + Owners$$
+    - Double-entry bookkeeping
+    - Assets = Liabilities + Stockholders' Equity
+        - Stockholders' Equity = Contributed Capital + Retained Earnings
+        - Retianed Earnings = Prior Retained Earnings + Net Income - Dividends
+        - Net Income = Revenues - Expenses
 
+- Assets
+  - Must be acquired in the past and can be valued with reasonble degree of precision
+  - Examples: cash, account receivable, inventory, prepaid rent, land
+ 
+- Liabilities
+  - Must be based on benefits/services received in the past; Amount and timimg of payment must be reasonably certain
+  - Examples: account payable, tax payable, salaries payable, notes/interest payable
+ 
+- Stockholders' Equity
+  - AKA net worth, net assets, net book value
+  - Sources:
+    - contributed capital: common stock par value, additional paid-in-capital (exess over par), treasury stock (repurchased stocks)
+    - Retained earnings: cumulative net income - cumulative dividend
+
+- Fundamental Bookkeeping Equations
+  - 
 ## Income Statement
 
 ## Statement of Cash Flowa
